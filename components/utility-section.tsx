@@ -1,7 +1,7 @@
 import Image from "next/image";
 import IconTurnitin from "@/public/images/file-text.svg";
 import IconELib from "@/public/images/book.svg";
-// import IconELib from "@/public/images/book.svg";
+import IconGrammarly from "@/public/images/g-solid.svg";
 import IconEPrints from "@/public/images/folder.svg";
 import IconPustaka from "@/public/images/book-open.svg";
 import IconAktivasi from "@/public/images/user-check.svg";
@@ -19,7 +19,7 @@ export default function UtilitySection() {
                 <p className="absolute font-semibold text-sm -bottom-6 text-nowrap">E-Library</p>
             </a>
             <a href="https://bit.ly/ujigrammarlyspsundip" target="_blank" rel="noopener noreferrer" className="utility">
-                <Image src="/images/user.svg" alt="Icon Grammarly" className="h-6 lg:h-12" />
+                <Image src={IconGrammarly} alt="Icon Grammarly" className="h-6 lg:h-12" />
                 <p className="absolute font-semibold text-sm -bottom-6 text-nowrap">Uji Grammarly</p>
             </a>
             <a href="https://eprints2.undip.ac.id/" target="_blank" rel="noopener noreferrer" className="utility">

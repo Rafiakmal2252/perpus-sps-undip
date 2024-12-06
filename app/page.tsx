@@ -5,6 +5,7 @@ import AboutUs from "@/components/about-us"
 import Facility from "@/components/facility-section"
 import Staff from "@/components/staff-section"
 import ScrollProgressBar from '../components/ScrollProgressBar';
+import UtilitySection from "@/components/utility-section"
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
             <Header />
             <Landing />
             <AboutUs/>
+            <UtilitySection/>
             <Facility/>
             <Staff/>
             <Footer/>
