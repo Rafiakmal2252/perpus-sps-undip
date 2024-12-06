@@ -2,7 +2,7 @@ import Header from "@/components/Header"
 import Footer from "@/components/footer-section"
 import Landing from "@/components/landing-section"
 import AboutUs from "@/components/about-us"
-import Facility from "@/components/Facility-section"
+import Facility from "@/components/facility-section"
 import Staff from "@/components/staff-section"
 import ScrollProgressBar from '../components/ScrollProgressBar';
 
