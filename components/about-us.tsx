@@ -15,7 +15,7 @@ export default function AboutUs(){
             <Image src={PascasarjanaUndip} alt="Pascasarjana Undip" className="rounded-md h-32 mx-auto lg:hidden" />
             <div className=" font-bold mt-4 inline-block text-base text-background">
                 <h2 className="ml-1 lg:font-bold lg:text-2xl">Visi Sekolah Pascasarjana UNDIP:</h2>
-                <p className="text-xs leading-5 text-justify font-bold mt-1 text-black lg:text-base lg:font-bold lg:mt-3 lg:mb-11">"Menjadi Sekolah Pascasarjana bertaraf internasional yang unggul dan terkemuka dengan mengintegrasikan bidang keilmuan multidisiplin."</p>
+                <p className="text-xs leading-5 text-justify font-bold mt-1 text-black lg:text-base lg:font-bold lg:mt-3 lg:mb-11">Menjadi Sekolah Pascasarjana bertaraf internasional yang unggul dan terkemuka dengan mengintegrasikan bidang keilmuan multidisiplin.</p>
                 <h2 className="font-bold text-lg mt-5 text-background lg:font-bold lg:text-2xl">Misi Sekolah Pascasarjana UNDIP:</h2>
                 <ul className="text-xs font-semibold mt-3 text-black space-y-2 list-disc list-inside lg:text-base">
                     <li>Menyelenggarakan pendidikan pascasarjana multidisiplin berkualitas yang menghasilkan lulusan unggul, kompetitif, dan berkontribusi pada pengembangan ilmu pengetahuan, teknologi, dan seni.</li>

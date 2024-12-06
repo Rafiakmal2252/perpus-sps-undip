@@ -4,7 +4,6 @@ import { MapPin } from 'lucide-react';
 import { Phone } from 'lucide-react';
 import { Mail } from 'lucide-react';
 import { Instagram } from 'lucide-react';
-import { link } from "fs";
 
 export default function FooterSection() {
     return (
