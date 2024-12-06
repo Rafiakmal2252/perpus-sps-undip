@@ -14,13 +14,13 @@ export default function UtilitySection() {
                 <Image src={IconTurnitin} alt="Icon Turnitin" className="h-6 lg:h-12 lg:w-12" />
                 <p className="absolute text-sm font-semibold -bottom-6 text-nowrap">Uji Turnitin</p>
             </a>
-            <a href="https://lib.undip.ac.id/" target="_blank" rel="noopener noreferrer" className="utility">
-                <Image src={IconELib} alt="Icon E-Lib" className="h-6 lg:h-12 lg:w-12" />
-                <p className="absolute font-semibold text-sm -bottom-6 text-nowrap">E-Library</p>
-            </a>
             <a href="https://bit.ly/ujigrammarlyspsundip" target="_blank" rel="noopener noreferrer" className="utility">
                 <Image src={IconGrammarly} alt="Icon Grammarly" className="h-6 lg:h-12" />
                 <p className="absolute font-semibold text-sm -bottom-6 text-nowrap">Uji Grammarly</p>
+            </a>
+            <a href="https://lib.undip.ac.id/" target="_blank" rel="noopener noreferrer" className="utility">
+                <Image src={IconELib} alt="Icon E-Lib" className="h-6 lg:h-12 lg:w-12" />
+                <p className="absolute font-semibold text-sm -bottom-6 text-nowrap">E-Library</p>
             </a>
             <a href="https://eprints2.undip.ac.id/" target="_blank" rel="noopener noreferrer" className="utility">
                 <Image src={IconEPrints} alt="Icon E-Print" className="h-6 lg:h-12 lg:w-12" />

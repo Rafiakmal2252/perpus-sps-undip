@@ -12,7 +12,7 @@ export default function AboutUs(){
             </h2>
         </div>
         <div className="mx-2 mt-14 lg:grid lg:grid-cols-2 lg:mt-20 lg:mx-10">
-            <Image src={PascasarjanaUndip} alt="Pascasarjana Undip" className="rounded-md h-32 mx-auto lg:hidden" />
+            <Image src={PascasarjanaUndip} alt="Pascasarjana Undip" className="rounded-md h-32 w-60 mx-auto lg:hidden" />
             <div className=" font-bold mt-4 inline-block text-base text-background">
                 <h2 className="ml-1 lg:font-bold lg:text-2xl">Visi Sekolah Pascasarjana UNDIP:</h2>
                 <p className="text-xs leading-5 text-justify font-bold mt-1 text-black lg:text-base lg:font-bold lg:mt-3 lg:mb-11">Menjadi Sekolah Pascasarjana bertaraf internasional yang unggul dan terkemuka dengan mengintegrasikan bidang keilmuan multidisiplin.</p>

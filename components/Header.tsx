@@ -5,7 +5,7 @@ export default function Header(){
     return(
         <div className="bg-backgrounds max-h-full">
         <div className="flex py-2 border-b-4 border-black">  
-        <Image src={LogoPerpus} alt="Logo Perpus" height={48} width={500} className="ml-3 lg:h-20" />
+        <Image src={LogoPerpus} alt="Logo Perpus" height={48} width={331} className="ml-3 lg:h-20 lg:w-[450px]" />
         </div>      
     </div>
     )
